@@ -2,7 +2,7 @@
 
 title: "Urban Big Data Analytics"
 output:
-  html_document: 
+  md_document: 
     toc: true
     toc_float: 
       collapsed: false
@@ -16,7 +16,7 @@ Vancouver Summer Program 2019
 
 Course Syllabus [<a href="https://urbanbigdata.github.io/UrbanBigData_syllabus_2019.pdf" target="_blank">pdf</a>]
 
-testing...
+testing 2...
 
 ## Course Information
  - Instructor: Andy Hong, The George Institute for Global Health, University of Oxford
