@@ -15,6 +15,8 @@ Vancouver Summer Program 2019
 
 Course Syllabus [<a href="https://urbanbigdata.github.io/UrbanBigData_syllabus_2019.pdf" target="_blank">pdf</a>]
 
+testing...
+
 ## Course Information
  - Instructor: Andy Hong, The George Institute for Global Health, University of Oxford
  - Contact: <a href="mailto:andyhong@gmail.com">andyhong@gmail.com</a>, <a href="https://www.andyhong.org" target="_blank">http://andyhong.org</a>
