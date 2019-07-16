@@ -1,4 +1,5 @@
 ---
+
 title: "Urban Big Data Analytics"
 output:
   html_document: 
@@ -6,7 +7,7 @@ output:
     toc_float: 
       collapsed: false
     toc_depth: 3
-  pdf_document: default
+    
 ---
 
 # Urban Big Data Analytics
