@@ -220,9 +220,10 @@ TA: Tom Park <br>
 
 1. Intro to machine learning
 2. Supervised vs. Unsupervised learning
-3. Data clustering with k-means technique
-4. Future of urban data science
-5. Final group project presentation prep
+3. Data clustering with a k-means technique
+4. Decision trees, random forest, bagging, and boosting
+5. Future of urban data science
+6. Final group project presentation prep
 
 <br>
 
